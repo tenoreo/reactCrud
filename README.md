@@ -1,0 +1,13 @@
+# reactCrud
+libreria a incluir
+yarn add firebase@9.6.7
+npm install 
+
+expo install expo-constants dotenv
+expo install react-native-gesture-handler
+expo install react-native-screens
+expo install react-native-safe-area-context
+expo install react-native-masked-view
+yarn add @react-navigation/native-stack @react-navigation/native
+yarn add react-native-svg
+yarn add rn-emoji-keyboard
